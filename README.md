@@ -4,14 +4,14 @@ Restful resource middleware for AdonisJs
 ## Usage
 1. Install 
     ```bash
-      npm i -S @tfs/adonis-resource-middleware
+      npm i -S adonis-resource-middleware
     ```
 1. Edit `/start/kernel.js`
     ```javascript
     const namedMiddleware = {
       /* ... */
       /* add a named middleware */
-      resource: '@tfs/adonis-resource-middleware',
+      resource: 'adonis-resource-middleware',
     }
     ```
 

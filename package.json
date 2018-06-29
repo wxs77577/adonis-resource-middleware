@@ -1,8 +1,9 @@
 {
-  "name": "@tfs/adonis-resource-middleware",
-  "version": "1.0.0",
+  "name": "adonis-resource-middleware",
+  "version": "1.1.0",
   "description": "Restful resource middleware for AdonisJs",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "node test.js"
   },
